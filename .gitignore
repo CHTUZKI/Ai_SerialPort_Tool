@@ -1,5 +1,5 @@
 # 日志文件
-serial_communication.log
+# serial_communication.log (已添加到版本控制)
 
 # Python缓存文件
 __pycache__/

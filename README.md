@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ```
 我当前设备的串口号是COM4，波特率1.5M，8N1配置。
-你给我用ifconfig看一下我Linux开发板的ip地址。
+你给我用serial_forwarder用ifconfig看一下我Linux开发板的ip地址。
 ```
 
 AI会自动执行：
